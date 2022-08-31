@@ -11,7 +11,7 @@ const Header = () => {
         <h5>Hello, I am</h5>
         <h1>Nikhil Chitte </h1>
         <h3 className="text-light">
-        Full Stack Developer || Web3 dev Enthusiast 
+        Full Stack Developer || Web3 Enthusiast 
         </h3>
         <CTA />
         <a href="#contact" className="scroll__down">Scroll Down</a>
